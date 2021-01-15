@@ -1,7 +1,8 @@
 # mathmad
 Yet another boring stuff
 
-inspiration:
+## inspiration: <br/>
+```
 madmath (http://www.madmath.com/) <br/>
 Practice at hackerearth (https://www.hackerearth.com/practice/) <br/>
 Companion web to the text Structure and Interpretation of Computer Programs (https://mitpress.mit.edu/sites/default/files/sicp/index.html) <br/>
@@ -13,3 +14,4 @@ https://github.com/chenyuxiang0425/cs61a_sp20
 http://aima.cs.berkeley.edu/contents.html
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 https://www.geeksforgeeks.org/data-structures/
+```

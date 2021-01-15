@@ -2,10 +2,9 @@
 Yet another boring stuff
 
 inspiration:
-  *[madmath (http://www.madmath.com/)
-*[Practice at hackerearth](https://www.hackerearth.com/practice/)
-<br/>
--https://mitpress.mit.edu/sites/default/files/sicp/index.html
+madmath (http://www.madmath.com/) <br/>
+Practice at hackerearth (https://www.hackerearth.com/practice/) <br/>
+Companion web to the text Structure and Interpretation of Computer Programs (https://mitpress.mit.edu/sites/default/files/sicp/index.html) <br/>
 https://inst.eecs.berkeley.edu//~cs61a/sp20/
 https://github.com/ivanjovanovic/sicp
 https://github.com/czahie/CS61A

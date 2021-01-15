@@ -57,4 +57,7 @@ geeksforgeeks {
     &
     geeksforgeeks.org/data-structures/
     }
-python { automatetheboringstuff.com/ }
+python {
+        automatetheboringstuff.com/
+        runestone.academy/runestone/static/pythoned/index.html
+        }

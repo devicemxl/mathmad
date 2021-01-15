@@ -1,4 +1,4 @@
-# Yet another boring stuff
+# Another boring text
 
 ## inspiration: <br/>
 ```

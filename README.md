@@ -3,6 +3,7 @@ Yet another boring stuff
 
 inspiration:
 http://www.madmath.com/
+
 https://www.hackerearth.com/practice/
 https://mitpress.mit.edu/sites/default/files/sicp/index.html
 https://inst.eecs.berkeley.edu//~cs61a/sp20/

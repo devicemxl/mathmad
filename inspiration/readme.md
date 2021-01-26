@@ -78,6 +78,9 @@ http://datasciencemasters.org/
 Data Science Specialization
 http://datasciencespecialization.github.io/
 
+Data Science at ASA (really nice)
+https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf
+
 # Data Science Projects Repository
 https://github.com/lcamposgarrido/data-science_projects
 https://github.com/sajal2692/data-science-portfolio
@@ -89,3 +92,7 @@ https://sajalsharma.com/portfolio/
 https://github.com/byukan/Marketing-Data-Science
 Rucio - Scientific Data Management
 https://github.com/rucio/rucio
+
+# Kaban
+https://trello.com/b/Dj3EzmL9/site-tracker
+https://trello.com/c/VkT7CENw/5-team-resources

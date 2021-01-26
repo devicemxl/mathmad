@@ -14,6 +14,9 @@
 <br>Data Science Project Template
 <br>https://github.com/makcedward/ds_project_template
 
+<br>Conjoint survey experiments and power analysis
+<br>https://mblukac.github.io/posts/2020/08/cj_poweranalysis/
+
 <br>Resources for Data Science Process management
 <br>https://github.com/jeongyoonlee/data-science-process-management
 

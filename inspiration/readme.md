@@ -81,6 +81,13 @@ http://datasciencespecialization.github.io/
 Data Science at ASA (really nice)
 https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf
 
+Udacy
+https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
+https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
+https://www.udacity.com/course/data-analyst-nanodegree--nd002
+https://www.udacity.com/course/data-engineer-nanodegree--nd027
+https://www.udacity.com/course/data-visualization-nanodegree--nd197
+
 # Data Science Projects Repository
 https://github.com/lcamposgarrido/data-science_projects
 https://github.com/sajal2692/data-science-portfolio
@@ -90,6 +97,7 @@ https://sajalsharma.com/portfolio/
 # tools & +
 -Analytics and data science business case studies to identify opportunities and inform decisions about products and features. 
 https://github.com/byukan/Marketing-Data-Science
+
 Rucio - Scientific Data Management
 https://github.com/rucio/rucio
 
